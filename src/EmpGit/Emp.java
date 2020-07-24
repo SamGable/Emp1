@@ -56,3 +56,7 @@ class TestEmployee {
 class ssss () {
 
 }
+
+class oooo () {
+
+}
